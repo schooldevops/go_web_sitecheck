@@ -10,3 +10,9 @@
 ```
 docker build -t scale_check:v1.0 .
 ```
+
+## docker run 
+
+```
+docker run --name scale_check -p 8888:8888 -v /var/envfile:/bin/envfile scale_check
+```
