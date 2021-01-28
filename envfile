@@ -1,6 +1,6 @@
 # .env file
 
-SITE_NAME=SCALE
+SITE_NAME=MYJOB
 TITLE=시스템 점검중
 CONTENTS=시스템 점검중에 있습니다.
 PERIOD=false
