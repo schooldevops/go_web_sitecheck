@@ -1,0 +1,8 @@
+# .env file
+
+SITE_NAME=SCALE
+TITLE=시스템 점검중
+CONTENTS=시스템 점검중에 있습니다.
+PERIOD=false
+START_TIME=2021-01-24 00:00:00
+END_TIME=2021-01-28 00:00:00
